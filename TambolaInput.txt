@@ -1,0 +1,50 @@
+ACTIVITY GYM@एक्टिविटी जिम
+STORY BOOK@स्टोरी बुक
+CHANGING MAT@चेंजिंग मॅट
+CAR SEAT@कार सीट
+TOOTH BRUSH@टूथ ब्रश
+PAJAMA@पायजामा
+BOTTLE@बॉटल
+BIBS@बिब्स
+NAIL CUTTER@नेल कटर
+POWDER@पाउडर
+RATTLE@रॅटल 
+WIPES@वाइप्स
+BUMBO SEAT@बंबो सीट
+DIAPER BAG@डाइपर बॅग
+HAT@हॅट
+GIFT FOR BABY@गिफ्ट फॉर बेबी
+SNACK CUP@स्नॅक कप
+BATH TOYS@बाथ टॉयस
+THERMOMETER@थर्मॉमीटर
+NIGHT LIGHT@नाइट लाइट
+BATH TUB@बाथ टब
+HIGH CHAIR@हाइ चेर
+BLANKET@ब्लॅंकेट
+SOCKS@सॉक्स
+SIPPER@सिप्पर
+BOOK@बुक
+DIAPER@डाइपर
+FACE CREAM@फेस क्रीम
+KAJAL@काजल
+HAND GLOWS@हॅंड ग्लोस
+STROLLER@स्ट्रोलर
+DRY SHEET@ड्राइ शीट
+FORMULA MILK@फ़ॉर्मूला मिल्क
+BABY PILLOW@बेबी पिल्लो
+TOYS@टॉयस
+TOWELS@टॉवेल्स
+BOTTLE BRUSH@बॉटल ब्रश
+BOWL@बाउव्ल
+TRAVEL BAG@ट्रॅवेल बाग
+WALKER@वॉकर
+LOTION@लोशन
+HAIR OIL@हेर ओइल
+SLEEPERS@स्लीपर्स
+FROCKS@फ्रॉक्स
+HAIR PIN@हेर पिन
+PLAY HOUSE@प्ले हाउस
+MESSAGE OIL@मसाज ओइल
+UMBRELLA@अंब्रेला
+BABY FOOD@बेबी फुड
+WET TISSUE@वेट टिश्यू

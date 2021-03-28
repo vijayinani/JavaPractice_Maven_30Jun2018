@@ -1,0 +1,960 @@
+BABY PILLOW,BUMBO SEAT,CAR SEAT,DIAPER BAG,
+बेबी पिल्लो,बंबो सीट,कार सीट,डाइपर बॅग,
+
+FROCKS,HIGH CHAIR,MESSAGE OIL,PAJAMA,
+फ्रॉक्स,हाइ चेर,मसाज ओइल,पायजामा,
+
+PLAY HOUSE,POWDER,RATTLE,THERMOMETER,
+प्ले हाउस,पाउडर,रॅटल ,थर्मॉमीटर,
+
+=====================================================================
+BATH TOYS,BIBS,BOOK,DRY SHEET,
+बाथ टॉयस,बिब्स,बुक,ड्राइ शीट,
+
+GIFT FOR BABY,HAIR OIL,HAT,HIGH CHAIR,
+गिफ्ट फॉर बेबी,हेर ओइल,हॅट,हाइ चेर,
+
+KAJAL,THERMOMETER,TOWELS,TRAVEL BAG,
+काजल,थर्मॉमीटर,टॉवेल्स,ट्रॅवेल बाग,
+
+=====================================================================
+BATH TOYS,BIBS,BOTTLE,BOWL,
+बाथ टॉयस,बिब्स,बॉटल,बाउव्ल,
+
+CHANGING MAT,HAT,NAIL CUTTER,SIPPER,
+चेंजिंग मॅट,हॅट,नेल कटर,सिप्पर,
+
+SLEEPERS,STORY BOOK,UMBRELLA,WALKER,
+स्लीपर्स,स्टोरी बुक,अंब्रेला,वॉकर,
+
+=====================================================================
+BATH TOYS,BUMBO SEAT,CAR SEAT,FACE CREAM,
+बाथ टॉयस,बंबो सीट,कार सीट,फेस क्रीम,
+
+HAIR OIL,HAT,POWDER,SIPPER,
+हेर ओइल,हॅट,पाउडर,सिप्पर,
+
+SOCKS,STROLLER,TOWELS,WIPES,
+सॉक्स,स्ट्रोलर,टॉवेल्स,वाइप्स,
+
+=====================================================================
+BIBS,BLANKET,BOTTLE BRUSH,BOWL,
+बिब्स,ब्लॅंकेट,बॉटल ब्रश,बाउव्ल,
+
+FORMULA MILK,NAIL CUTTER,PLAY HOUSE,RATTLE,
+फ़ॉर्मूला मिल्क,नेल कटर,प्ले हाउस,रॅटल ,
+
+SNACK CUP,STROLLER,TOOTH BRUSH,TOYS,
+स्नॅक कप,स्ट्रोलर,टूथ ब्रश,टॉयस,
+BOTTLE,DRY SHEET,FORMULA MILK,FROCKS,
+बॉटल,ड्राइ शीट,फ़ॉर्मूला मिल्क,फ्रॉक्स,
+
+GIFT FOR BABY,HAIR PIN,HAND GLOWS,HIGH CHAIR,
+गिफ्ट फॉर बेबी,हेर पिन,हॅंड ग्लोस,हाइ चेर,
+
+KAJAL,LOTION,RATTLE,SIPPER,
+काजल,लोशन,रॅटल ,सिप्पर,
+
+=====================================================================
+BABY FOOD,BLANKET,BOOK,DIAPER,
+बेबी फुड,ब्लॅंकेट,बुक,डाइपर,
+
+DIAPER BAG,FROCKS,GIFT FOR BABY,HAIR OIL,
+डाइपर बॅग,फ्रॉक्स,गिफ्ट फॉर बेबी,हेर ओइल,
+
+HAT,NIGHT LIGHT,SOCKS,WET TISSUE,
+हॅट,नाइट लाइट,सॉक्स,वेट टिश्यू,
+
+=====================================================================
+BIBS,BLANKET,BOOK,BOWL,
+बिब्स,ब्लॅंकेट,बुक,बाउव्ल,
+
+FORMULA MILK,NIGHT LIGHT,POWDER,RATTLE,
+फ़ॉर्मूला मिल्क,नाइट लाइट,पाउडर,रॅटल ,
+
+SLEEPERS,STROLLER,TOWELS,TOYS,
+स्लीपर्स,स्ट्रोलर,टॉवेल्स,टॉयस,
+
+=====================================================================
+BATH TOYS,BIBS,BOOK,BOWL,
+बाथ टॉयस,बिब्स,बुक,बाउव्ल,
+
+FORMULA MILK,HAIR OIL,HAIR PIN,HAND GLOWS,
+फ़ॉर्मूला मिल्क,हेर ओइल,हेर पिन,हॅंड ग्लोस,
+
+HAT,SIPPER,STORY BOOK,THERMOMETER,
+हॅट,सिप्पर,स्टोरी बुक,थर्मॉमीटर,
+
+=====================================================================
+ACTIVITY GYM,BABY PILLOW,BATH TUB,BIBS,
+एक्टिविटी जिम,बेबी पिल्लो,बाथ टब,बिब्स,
+
+BUMBO SEAT,FROCKS,GIFT FOR BABY,KAJAL,
+बंबो सीट,फ्रॉक्स,गिफ्ट फॉर बेबी,काजल,
+
+RATTLE,SNACK CUP,THERMOMETER,TOWELS,
+रॅटल ,स्नॅक कप,थर्मॉमीटर,टॉवेल्स,
+BABY PILLOW,BLANKET,GIFT FOR BABY,HAIR OIL,
+बेबी पिल्लो,ब्लॅंकेट,गिफ्ट फॉर बेबी,हेर ओइल,
+
+HAT,NAIL CUTTER,SNACK CUP,SOCKS,
+हॅट,नेल कटर,स्नॅक कप,सॉक्स,
+
+STROLLER,TOWELS,UMBRELLA,WIPES,
+स्ट्रोलर,टॉवेल्स,अंब्रेला,वाइप्स,
+
+=====================================================================
+ACTIVITY GYM,BOOK,BOTTLE,BOTTLE BRUSH,
+एक्टिविटी जिम,बुक,बॉटल,बॉटल ब्रश,
+
+CAR SEAT,GIFT FOR BABY,HAIR PIN,SLEEPERS,
+कार सीट,गिफ्ट फॉर बेबी,हेर पिन,स्लीपर्स,
+
+STORY BOOK,STROLLER,TOOTH BRUSH,WALKER,
+स्टोरी बुक,स्ट्रोलर,टूथ ब्रश,वॉकर,
+
+=====================================================================
+BLANKET,BOTTLE,FACE CREAM,FROCKS,
+ब्लॅंकेट,बॉटल,फेस क्रीम,फ्रॉक्स,
+
+HAND GLOWS,KAJAL,LOTION,SNACK CUP,
+हॅंड ग्लोस,काजल,लोशन,स्नॅक कप,
+
+SOCKS,TOYS,UMBRELLA,WALKER,
+सॉक्स,टॉयस,अंब्रेला,वॉकर,
+
+=====================================================================
+ACTIVITY GYM,BLANKET,DIAPER BAG,FACE CREAM,
+एक्टिविटी जिम,ब्लॅंकेट,डाइपर बॅग,फेस क्रीम,
+
+FROCKS,HAIR OIL,HAIR PIN,HAT,
+फ्रॉक्स,हेर ओइल,हेर पिन,हॅट,
+
+LOTION,PAJAMA,RATTLE,WIPES,
+लोशन,पायजामा,रॅटल ,वाइप्स,
+
+=====================================================================
+BABY PILLOW,BATH TUB,BIBS,BLANKET,
+बेबी पिल्लो,बाथ टब,बिब्स,ब्लॅंकेट,
+
+BOOK,CAR SEAT,FORMULA MILK,LOTION,
+बुक,कार सीट,फ़ॉर्मूला मिल्क,लोशन,
+
+STROLLER,TOOTH BRUSH,TOYS,WALKER,
+स्ट्रोलर,टूथ ब्रश,टॉयस,वॉकर,
+BIBS,BOTTLE BRUSH,BOWL,BUMBO SEAT,
+बिब्स,बॉटल ब्रश,बाउव्ल,बंबो सीट,
+
+FACE CREAM,FORMULA MILK,FROCKS,NIGHT LIGHT,
+फेस क्रीम,फ़ॉर्मूला मिल्क,फ्रॉक्स,नाइट लाइट,
+
+PLAY HOUSE,SOCKS,TOOTH BRUSH,TOWELS,
+प्ले हाउस,सॉक्स,टूथ ब्रश,टॉवेल्स,
+
+=====================================================================
+BABY FOOD,BOOK,DIAPER BAG,DRY SHEET,
+बेबी फुड,बुक,डाइपर बॅग,ड्राइ शीट,
+
+FORMULA MILK,GIFT FOR BABY,HAIR OIL,KAJAL,
+फ़ॉर्मूला मिल्क,गिफ्ट फॉर बेबी,हेर ओइल,काजल,
+
+PLAY HOUSE,RATTLE,SIPPER,STROLLER,
+प्ले हाउस,रॅटल ,सिप्पर,स्ट्रोलर,
+
+=====================================================================
+ACTIVITY GYM,BATH TOYS,BLANKET,BOTTLE,
+एक्टिविटी जिम,बाथ टॉयस,ब्लॅंकेट,बॉटल,
+
+BOWL,HAIR OIL,HAND GLOWS,POWDER,
+बाउव्ल,हेर ओइल,हॅंड ग्लोस,पाउडर,
+
+SOCKS,STROLLER,TOOTH BRUSH,WET TISSUE,
+सॉक्स,स्ट्रोलर,टूथ ब्रश,वेट टिश्यू,
+
+=====================================================================
+BATH TOYS,CAR SEAT,CHANGING MAT,HAT,
+बाथ टॉयस,कार सीट,चेंजिंग मॅट,हॅट,
+
+MESSAGE OIL,NIGHT LIGHT,PAJAMA,SLEEPERS,
+मसाज ओइल,नाइट लाइट,पायजामा,स्लीपर्स,
+
+STORY BOOK,THERMOMETER,TOYS,UMBRELLA,
+स्टोरी बुक,थर्मॉमीटर,टॉयस,अंब्रेला,
+
+=====================================================================
+BABY PILLOW,BATH TOYS,BOTTLE BRUSH,BOWL,
+बेबी पिल्लो,बाथ टॉयस,बॉटल ब्रश,बाउव्ल,
+
+DIAPER,DIAPER BAG,FACE CREAM,HAIR OIL,
+डाइपर,डाइपर बॅग,फेस क्रीम,हेर ओइल,
+
+HAIR PIN,KAJAL,SLEEPERS,THERMOMETER,
+हेर पिन,काजल,स्लीपर्स,थर्मॉमीटर,
+BABY PILLOW,BATH TOYS,BOTTLE BRUSH,BUMBO SEAT,
+बेबी पिल्लो,बाथ टॉयस,बॉटल ब्रश,बंबो सीट,
+
+DIAPER BAG,FORMULA MILK,FROCKS,HAT,
+डाइपर बॅग,फ़ॉर्मूला मिल्क,फ्रॉक्स,हॅट,
+
+PAJAMA,TRAVEL BAG,WALKER,WIPES,
+पायजामा,ट्रॅवेल बाग,वॉकर,वाइप्स,
+
+=====================================================================
+BABY PILLOW,BATH TUB,BUMBO SEAT,DRY SHEET,
+बेबी पिल्लो,बाथ टब,बंबो सीट,ड्राइ शीट,
+
+FORMULA MILK,FROCKS,HAIR OIL,HAT,
+फ़ॉर्मूला मिल्क,फ्रॉक्स,हेर ओइल,हॅट,
+
+NAIL CUTTER,PLAY HOUSE,SOCKS,UMBRELLA,
+नेल कटर,प्ले हाउस,सॉक्स,अंब्रेला,
+
+=====================================================================
+BLANKET,CAR SEAT,DIAPER,DRY SHEET,
+ब्लॅंकेट,कार सीट,डाइपर,ड्राइ शीट,
+
+GIFT FOR BABY,HAND GLOWS,HAT,MESSAGE OIL,
+गिफ्ट फॉर बेबी,हॅंड ग्लोस,हॅट,मसाज ओइल,
+
+PAJAMA,STROLLER,TRAVEL BAG,WIPES,
+पायजामा,स्ट्रोलर,ट्रॅवेल बाग,वाइप्स,
+
+=====================================================================
+BATH TOYS,BUMBO SEAT,CHANGING MAT,DIAPER,
+बाथ टॉयस,बंबो सीट,चेंजिंग मॅट,डाइपर,
+
+FACE CREAM,HAIR OIL,HAND GLOWS,MESSAGE OIL,
+फेस क्रीम,हेर ओइल,हॅंड ग्लोस,मसाज ओइल,
+
+PAJAMA,STORY BOOK,STROLLER,UMBRELLA,
+पायजामा,स्टोरी बुक,स्ट्रोलर,अंब्रेला,
+
+=====================================================================
+ACTIVITY GYM,BABY PILLOW,BUMBO SEAT,HAIR OIL,
+एक्टिविटी जिम,बेबी पिल्लो,बंबो सीट,हेर ओइल,
+
+HAT,MESSAGE OIL,NIGHT LIGHT,SNACK CUP,
+हॅट,मसाज ओइल,नाइट लाइट,स्नॅक कप,
+
+THERMOMETER,TOOTH BRUSH,WALKER,WET TISSUE,
+थर्मॉमीटर,टूथ ब्रश,वॉकर,वेट टिश्यू,
+ACTIVITY GYM,BATH TOYS,BIBS,BOOK,
+एक्टिविटी जिम,बाथ टॉयस,बिब्स,बुक,
+
+CHANGING MAT,FACE CREAM,HAIR OIL,SIPPER,
+चेंजिंग मॅट,फेस क्रीम,हेर ओइल,सिप्पर,
+
+STROLLER,TOWELS,TOYS,UMBRELLA,
+स्ट्रोलर,टॉवेल्स,टॉयस,अंब्रेला,
+
+=====================================================================
+BABY FOOD,BABY PILLOW,BATH TUB,DRY SHEET,
+बेबी फुड,बेबी पिल्लो,बाथ टब,ड्राइ शीट,
+
+KAJAL,MESSAGE OIL,SLEEPERS,SOCKS,
+काजल,मसाज ओइल,स्लीपर्स,सॉक्स,
+
+STORY BOOK,TOWELS,UMBRELLA,WET TISSUE,
+स्टोरी बुक,टॉवेल्स,अंब्रेला,वेट टिश्यू,
+
+=====================================================================
+ACTIVITY GYM,BIBS,BOTTLE,BOTTLE BRUSH,
+एक्टिविटी जिम,बिब्स,बॉटल,बॉटल ब्रश,
+
+DIAPER,FACE CREAM,KAJAL,MESSAGE OIL,
+डाइपर,फेस क्रीम,काजल,मसाज ओइल,
+
+NIGHT LIGHT,SIPPER,SOCKS,TOYS,
+नाइट लाइट,सिप्पर,सॉक्स,टॉयस,
+
+=====================================================================
+BATH TUB,BOWL,BUMBO SEAT,CHANGING MAT,
+बाथ टब,बाउव्ल,बंबो सीट,चेंजिंग मॅट,
+
+DIAPER BAG,FACE CREAM,GIFT FOR BABY,HAIR OIL,
+डाइपर बॅग,फेस क्रीम,गिफ्ट फॉर बेबी,हेर ओइल,
+
+NAIL CUTTER,RATTLE,TRAVEL BAG,WIPES,
+नेल कटर,रॅटल ,ट्रॅवेल बाग,वाइप्स,
+
+=====================================================================
+BLANKET,BOTTLE,BOTTLE BRUSH,BOWL,
+ब्लॅंकेट,बॉटल,बॉटल ब्रश,बाउव्ल,
+
+BUMBO SEAT,HAND GLOWS,NIGHT LIGHT,PLAY HOUSE,
+बंबो सीट,हॅंड ग्लोस,नाइट लाइट,प्ले हाउस,
+
+SOCKS,THERMOMETER,TOWELS,TRAVEL BAG,
+सॉक्स,थर्मॉमीटर,टॉवेल्स,ट्रॅवेल बाग,
+ACTIVITY GYM,BIBS,BLANKET,BOTTLE,
+एक्टिविटी जिम,बिब्स,ब्लॅंकेट,बॉटल,
+
+BUMBO SEAT,FACE CREAM,FORMULA MILK,LOTION,
+बंबो सीट,फेस क्रीम,फ़ॉर्मूला मिल्क,लोशन,
+
+NAIL CUTTER,RATTLE,SNACK CUP,STROLLER,
+नेल कटर,रॅटल ,स्नॅक कप,स्ट्रोलर,
+
+=====================================================================
+BABY FOOD,BATH TUB,BOTTLE BRUSH,FACE CREAM,
+बेबी फुड,बाथ टब,बॉटल ब्रश,फेस क्रीम,
+
+FORMULA MILK,HAIR PIN,HAND GLOWS,LOTION,
+फ़ॉर्मूला मिल्क,हेर पिन,हॅंड ग्लोस,लोशन,
+
+MESSAGE OIL,SNACK CUP,THERMOMETER,TOYS,
+मसाज ओइल,स्नॅक कप,थर्मॉमीटर,टॉयस,
+
+=====================================================================
+BATH TUB,BUMBO SEAT,DIAPER,FORMULA MILK,
+बाथ टब,बंबो सीट,डाइपर,फ़ॉर्मूला मिल्क,
+
+POWDER,SNACK CUP,STORY BOOK,THERMOMETER,
+पाउडर,स्नॅक कप,स्टोरी बुक,थर्मॉमीटर,
+
+TOWELS,TOYS,WET TISSUE,WIPES,
+टॉवेल्स,टॉयस,वेट टिश्यू,वाइप्स,
+
+=====================================================================
+ACTIVITY GYM,BOOK,BOTTLE,BOWL,
+एक्टिविटी जिम,बुक,बॉटल,बाउव्ल,
+
+HAND GLOWS,HIGH CHAIR,LOTION,NIGHT LIGHT,
+हॅंड ग्लोस,हाइ चेर,लोशन,नाइट लाइट,
+
+POWDER,SNACK CUP,TOWELS,TOYS,
+पाउडर,स्नॅक कप,टॉवेल्स,टॉयस,
+
+=====================================================================
+ACTIVITY GYM,BABY FOOD,BATH TUB,DIAPER,
+एक्टिविटी जिम,बेबी फुड,बाथ टब,डाइपर,
+
+HAIR PIN,MESSAGE OIL,RATTLE,SOCKS,
+हेर पिन,मसाज ओइल,रॅटल ,सॉक्स,
+
+STROLLER,TOYS,WET TISSUE,WIPES,
+स्ट्रोलर,टॉयस,वेट टिश्यू,वाइप्स,
+BABY PILLOW,BOOK,FORMULA MILK,FROCKS,
+बेबी पिल्लो,बुक,फ़ॉर्मूला मिल्क,फ्रॉक्स,
+
+GIFT FOR BABY,HAND GLOWS,KAJAL,LOTION,
+गिफ्ट फॉर बेबी,हॅंड ग्लोस,काजल,लोशन,
+
+NAIL CUTTER,NIGHT LIGHT,PAJAMA,STROLLER,
+नेल कटर,नाइट लाइट,पायजामा,स्ट्रोलर,
+
+=====================================================================
+BABY PILLOW,BOOK,BOWL,CHANGING MAT,
+बेबी पिल्लो,बुक,बाउव्ल,चेंजिंग मॅट,
+
+FORMULA MILK,HIGH CHAIR,LOTION,MESSAGE OIL,
+फ़ॉर्मूला मिल्क,हाइ चेर,लोशन,मसाज ओइल,
+
+PAJAMA,POWDER,STORY BOOK,TOWELS,
+पायजामा,पाउडर,स्टोरी बुक,टॉवेल्स,
+
+=====================================================================
+BOTTLE BRUSH,BUMBO SEAT,DIAPER,FROCKS,
+बॉटल ब्रश,बंबो सीट,डाइपर,फ्रॉक्स,
+
+HAT,PLAY HOUSE,RATTLE,SLEEPERS,
+हॅट,प्ले हाउस,रॅटल ,स्लीपर्स,
+
+SNACK CUP,STORY BOOK,TRAVEL BAG,WET TISSUE,
+स्नॅक कप,स्टोरी बुक,ट्रॅवेल बाग,वेट टिश्यू,
+
+=====================================================================
+BABY PILLOW,BLANKET,BUMBO SEAT,CAR SEAT,
+बेबी पिल्लो,ब्लॅंकेट,बंबो सीट,कार सीट,
+
+DIAPER BAG,DRY SHEET,LOTION,RATTLE,
+डाइपर बॅग,ड्राइ शीट,लोशन,रॅटल ,
+
+SIPPER,TRAVEL BAG,WALKER,WIPES,
+सिप्पर,ट्रॅवेल बाग,वॉकर,वाइप्स,
+
+=====================================================================
+BATH TOYS,BOTTLE,CHANGING MAT,DIAPER,
+बाथ टॉयस,बॉटल,चेंजिंग मॅट,डाइपर,
+
+DIAPER BAG,DRY SHEET,FORMULA MILK,FROCKS,
+डाइपर बॅग,ड्राइ शीट,फ़ॉर्मूला मिल्क,फ्रॉक्स,
+
+PLAY HOUSE,RATTLE,SNACK CUP,TOYS,
+प्ले हाउस,रॅटल ,स्नॅक कप,टॉयस,
+BATH TUB,BIBS,BLANKET,BOWL,
+बाथ टब,बिब्स,ब्लॅंकेट,बाउव्ल,
+
+CHANGING MAT,HIGH CHAIR,POWDER,SIPPER,
+चेंजिंग मॅट,हाइ चेर,पाउडर,सिप्पर,
+
+STROLLER,TOOTH BRUSH,WALKER,WET TISSUE,
+स्ट्रोलर,टूथ ब्रश,वॉकर,वेट टिश्यू,
+
+=====================================================================
+ACTIVITY GYM,CHANGING MAT,DIAPER BAG,HAIR OIL,
+एक्टिविटी जिम,चेंजिंग मॅट,डाइपर बॅग,हेर ओइल,
+
+HIGH CHAIR,LOTION,PLAY HOUSE,RATTLE,
+हाइ चेर,लोशन,प्ले हाउस,रॅटल ,
+
+SIPPER,SLEEPERS,TOOTH BRUSH,TOWELS,
+सिप्पर,स्लीपर्स,टूथ ब्रश,टॉवेल्स,
+
+=====================================================================
+BABY FOOD,BATH TOYS,BATH TUB,BOWL,
+बेबी फुड,बाथ टॉयस,बाथ टब,बाउव्ल,
+
+CAR SEAT,DIAPER BAG,FACE CREAM,LOTION,
+कार सीट,डाइपर बॅग,फेस क्रीम,लोशन,
+
+SLEEPERS,SNACK CUP,SOCKS,THERMOMETER,
+स्लीपर्स,स्नॅक कप,सॉक्स,थर्मॉमीटर,
+
+=====================================================================
+ACTIVITY GYM,BOOK,BOTTLE BRUSH,BUMBO SEAT,
+एक्टिविटी जिम,बुक,बॉटल ब्रश,बंबो सीट,
+
+CHANGING MAT,DIAPER BAG,GIFT FOR BABY,HAIR OIL,
+चेंजिंग मॅट,डाइपर बॅग,गिफ्ट फॉर बेबी,हेर ओइल,
+
+SIPPER,TOOTH BRUSH,TOYS,WALKER,
+सिप्पर,टूथ ब्रश,टॉयस,वॉकर,
+
+=====================================================================
+BATH TOYS,BATH TUB,BOTTLE,BOWL,
+बाथ टॉयस,बाथ टब,बॉटल,बाउव्ल,
+
+DRY SHEET,FACE CREAM,GIFT FOR BABY,SLEEPERS,
+ड्राइ शीट,फेस क्रीम,गिफ्ट फॉर बेबी,स्लीपर्स,
+
+SNACK CUP,STORY BOOK,TOYS,UMBRELLA,
+स्नॅक कप,स्टोरी बुक,टॉयस,अंब्रेला,
+BABY FOOD,BOTTLE,HAT,KAJAL,
+बेबी फुड,बॉटल,हॅट,काजल,
+
+MESSAGE OIL,PLAY HOUSE,POWDER,RATTLE,
+मसाज ओइल,प्ले हाउस,पाउडर,रॅटल ,
+
+SIPPER,SOCKS,WET TISSUE,WIPES,
+सिप्पर,सॉक्स,वेट टिश्यू,वाइप्स,
+
+=====================================================================
+BABY PILLOW,DRY SHEET,FACE CREAM,FROCKS,
+बेबी पिल्लो,ड्राइ शीट,फेस क्रीम,फ्रॉक्स,
+
+GIFT FOR BABY,HAND GLOWS,HAT,LOTION,
+गिफ्ट फॉर बेबी,हॅंड ग्लोस,हॅट,लोशन,
+
+SLEEPERS,STORY BOOK,THERMOMETER,TOOTH BRUSH,
+स्लीपर्स,स्टोरी बुक,थर्मॉमीटर,टूथ ब्रश,
+
+=====================================================================
+ACTIVITY GYM,BOTTLE BRUSH,CHANGING MAT,DRY SHEET,
+एक्टिविटी जिम,बॉटल ब्रश,चेंजिंग मॅट,ड्राइ शीट,
+
+FROCKS,HAIR OIL,NIGHT LIGHT,PLAY HOUSE,
+फ्रॉक्स,हेर ओइल,नाइट लाइट,प्ले हाउस,
+
+POWDER,STORY BOOK,STROLLER,WET TISSUE,
+पाउडर,स्टोरी बुक,स्ट्रोलर,वेट टिश्यू,
+
+=====================================================================
+BATH TUB,BOOK,BOWL,FACE CREAM,
+बाथ टब,बुक,बाउव्ल,फेस क्रीम,
+
+HAND GLOWS,MESSAGE OIL,PAJAMA,PLAY HOUSE,
+हॅंड ग्लोस,मसाज ओइल,पायजामा,प्ले हाउस,
+
+SIPPER,SNACK CUP,STORY BOOK,WET TISSUE,
+सिप्पर,स्नॅक कप,स्टोरी बुक,वेट टिश्यू,
+
+=====================================================================
+BABY FOOD,BABY PILLOW,BATH TOYS,BATH TUB,
+बेबी फुड,बेबी पिल्लो,बाथ टॉयस,बाथ टब,
+
+BOWL,DRY SHEET,FROCKS,HAIR OIL,
+बाउव्ल,ड्राइ शीट,फ्रॉक्स,हेर ओइल,
+
+HAND GLOWS,LOTION,PAJAMA,SLEEPERS,
+हॅंड ग्लोस,लोशन,पायजामा,स्लीपर्स,
+BOTTLE,FORMULA MILK,FROCKS,GIFT FOR BABY,
+बॉटल,फ़ॉर्मूला मिल्क,फ्रॉक्स,गिफ्ट फॉर बेबी,
+
+HAIR PIN,HAND GLOWS,PAJAMA,RATTLE,
+हेर पिन,हॅंड ग्लोस,पायजामा,रॅटल ,
+
+SOCKS,TOOTH BRUSH,WALKER,WET TISSUE,
+सॉक्स,टूथ ब्रश,वॉकर,वेट टिश्यू,
+
+=====================================================================
+BATH TUB,BIBS,BOTTLE,CHANGING MAT,
+बाथ टब,बिब्स,बॉटल,चेंजिंग मॅट,
+
+DIAPER,FACE CREAM,FORMULA MILK,FROCKS,
+डाइपर,फेस क्रीम,फ़ॉर्मूला मिल्क,फ्रॉक्स,
+
+HAND GLOWS,HIGH CHAIR,NIGHT LIGHT,SNACK CUP,
+हॅंड ग्लोस,हाइ चेर,नाइट लाइट,स्नॅक कप,
+
+=====================================================================
+BATH TUB,BIBS,BLANKET,DIAPER,
+बाथ टब,बिब्स,ब्लॅंकेट,डाइपर,
+
+FORMULA MILK,FROCKS,GIFT FOR BABY,HAND GLOWS,
+फ़ॉर्मूला मिल्क,फ्रॉक्स,गिफ्ट फॉर बेबी,हॅंड ग्लोस,
+
+LOTION,PLAY HOUSE,TRAVEL BAG,WIPES,
+लोशन,प्ले हाउस,ट्रॅवेल बाग,वाइप्स,
+
+=====================================================================
+BOTTLE,CHANGING MAT,FROCKS,GIFT FOR BABY,
+बॉटल,चेंजिंग मॅट,फ्रॉक्स,गिफ्ट फॉर बेबी,
+
+PAJAMA,RATTLE,SLEEPERS,SOCKS,
+पायजामा,रॅटल ,स्लीपर्स,सॉक्स,
+
+STROLLER,THERMOMETER,TOWELS,WET TISSUE,
+स्ट्रोलर,थर्मॉमीटर,टॉवेल्स,वेट टिश्यू,
+
+=====================================================================
+BATH TUB,BOTTLE,BOWL,DRY SHEET,
+बाथ टब,बॉटल,बाउव्ल,ड्राइ शीट,
+
+FACE CREAM,HAIR PIN,LOTION,MESSAGE OIL,
+फेस क्रीम,हेर पिन,लोशन,मसाज ओइल,
+
+SIPPER,STROLLER,TRAVEL BAG,WET TISSUE,
+सिप्पर,स्ट्रोलर,ट्रॅवेल बाग,वेट टिश्यू,
+BATH TUB,BOTTLE BRUSH,BOWL,BUMBO SEAT,
+बाथ टब,बॉटल ब्रश,बाउव्ल,बंबो सीट,
+
+DIAPER,FROCKS,GIFT FOR BABY,HIGH CHAIR,
+डाइपर,फ्रॉक्स,गिफ्ट फॉर बेबी,हाइ चेर,
+
+PAJAMA,SNACK CUP,STROLLER,WALKER,
+पायजामा,स्नॅक कप,स्ट्रोलर,वॉकर,
+
+=====================================================================
+ACTIVITY GYM,BATH TOYS,BLANKET,BOTTLE,
+एक्टिविटी जिम,बाथ टॉयस,ब्लॅंकेट,बॉटल,
+
+BUMBO SEAT,FORMULA MILK,KAJAL,MESSAGE OIL,
+बंबो सीट,फ़ॉर्मूला मिल्क,काजल,मसाज ओइल,
+
+POWDER,RATTLE,TOWELS,WIPES,
+पाउडर,रॅटल ,टॉवेल्स,वाइप्स,
+
+=====================================================================
+BABY PILLOW,BLANKET,BOOK,BUMBO SEAT,
+बेबी पिल्लो,ब्लॅंकेट,बुक,बंबो सीट,
+
+DIAPER,DRY SHEET,FACE CREAM,HAIR PIN,
+डाइपर,ड्राइ शीट,फेस क्रीम,हेर पिन,
+
+NIGHT LIGHT,STORY BOOK,UMBRELLA,WIPES,
+नाइट लाइट,स्टोरी बुक,अंब्रेला,वाइप्स,
+
+=====================================================================
+ACTIVITY GYM,BABY PILLOW,BLANKET,BOOK,
+एक्टिविटी जिम,बेबी पिल्लो,ब्लॅंकेट,बुक,
+
+CAR SEAT,NAIL CUTTER,RATTLE,SOCKS,
+कार सीट,नेल कटर,रॅटल ,सॉक्स,
+
+THERMOMETER,TOYS,WALKER,WET TISSUE,
+थर्मॉमीटर,टॉयस,वॉकर,वेट टिश्यू,
+
+=====================================================================
+BABY FOOD,BLANKET,BOOK,CAR SEAT,
+बेबी फुड,ब्लॅंकेट,बुक,कार सीट,
+
+DRY SHEET,FACE CREAM,HAIR PIN,HIGH CHAIR,
+ड्राइ शीट,फेस क्रीम,हेर पिन,हाइ चेर,
+
+PAJAMA,SNACK CUP,SOCKS,STROLLER,
+पायजामा,स्नॅक कप,सॉक्स,स्ट्रोलर,
+BIBS,BLANKET,DIAPER BAG,DRY SHEET,
+बिब्स,ब्लॅंकेट,डाइपर बॅग,ड्राइ शीट,
+
+GIFT FOR BABY,HAIR OIL,HAIR PIN,MESSAGE OIL,
+गिफ्ट फॉर बेबी,हेर ओइल,हेर पिन,मसाज ओइल,
+
+NIGHT LIGHT,PAJAMA,SLEEPERS,SNACK CUP,
+नाइट लाइट,पायजामा,स्लीपर्स,स्नॅक कप,
+
+=====================================================================
+BATH TOYS,BIBS,BOTTLE BRUSH,FACE CREAM,
+बाथ टॉयस,बिब्स,बॉटल ब्रश,फेस क्रीम,
+
+FROCKS,HAIR OIL,HAIR PIN,HIGH CHAIR,
+फ्रॉक्स,हेर ओइल,हेर पिन,हाइ चेर,
+
+PLAY HOUSE,STORY BOOK,TOOTH BRUSH,WIPES,
+प्ले हाउस,स्टोरी बुक,टूथ ब्रश,वाइप्स,
+
+=====================================================================
+BATH TOYS,BATH TUB,BLANKET,CAR SEAT,
+बाथ टॉयस,बाथ टब,ब्लॅंकेट,कार सीट,
+
+FORMULA MILK,HAIR OIL,HIGH CHAIR,PLAY HOUSE,
+फ़ॉर्मूला मिल्क,हेर ओइल,हाइ चेर,प्ले हाउस,
+
+SOCKS,TRAVEL BAG,WET TISSUE,WIPES,
+सॉक्स,ट्रॅवेल बाग,वेट टिश्यू,वाइप्स,
+
+=====================================================================
+ACTIVITY GYM,BABY PILLOW,BIBS,CAR SEAT,
+एक्टिविटी जिम,बेबी पिल्लो,बिब्स,कार सीट,
+
+FACE CREAM,FROCKS,HAND GLOWS,HIGH CHAIR,
+फेस क्रीम,फ्रॉक्स,हॅंड ग्लोस,हाइ चेर,
+
+NAIL CUTTER,POWDER,SIPPER,WET TISSUE,
+नेल कटर,पाउडर,सिप्पर,वेट टिश्यू,
+
+=====================================================================
+BABY FOOD,BATH TOYS,BOOK,BUMBO SEAT,
+बेबी फुड,बाथ टॉयस,बुक,बंबो सीट,
+
+CAR SEAT,FORMULA MILK,KAJAL,MESSAGE OIL,
+कार सीट,फ़ॉर्मूला मिल्क,काजल,मसाज ओइल,
+
+NAIL CUTTER,RATTLE,SNACK CUP,STROLLER,
+नेल कटर,रॅटल ,स्नॅक कप,स्ट्रोलर,
+BABY FOOD,BUMBO SEAT,DRY SHEET,FORMULA MILK,
+बेबी फुड,बंबो सीट,ड्राइ शीट,फ़ॉर्मूला मिल्क,
+
+FROCKS,HAIR PIN,HAND GLOWS,HAT,
+फ्रॉक्स,हेर पिन,हॅंड ग्लोस,हॅट,
+
+NAIL CUTTER,POWDER,RATTLE,WET TISSUE,
+नेल कटर,पाउडर,रॅटल ,वेट टिश्यू,
+
+=====================================================================
+ACTIVITY GYM,BATH TUB,BOTTLE BRUSH,CAR SEAT,
+एक्टिविटी जिम,बाथ टब,बॉटल ब्रश,कार सीट,
+
+HAT,LOTION,MESSAGE OIL,NIGHT LIGHT,
+हॅट,लोशन,मसाज ओइल,नाइट लाइट,
+
+PAJAMA,SIPPER,SNACK CUP,UMBRELLA,
+पायजामा,सिप्पर,स्नॅक कप,अंब्रेला,
+
+=====================================================================
+BATH TOYS,BOTTLE,FORMULA MILK,HAIR OIL,
+बाथ टॉयस,बॉटल,फ़ॉर्मूला मिल्क,हेर ओइल,
+
+HIGH CHAIR,LOTION,NIGHT LIGHT,RATTLE,
+हाइ चेर,लोशन,नाइट लाइट,रॅटल ,
+
+TOWELS,UMBRELLA,WALKER,WET TISSUE,
+टॉवेल्स,अंब्रेला,वॉकर,वेट टिश्यू,
+
+=====================================================================
+CAR SEAT,CHANGING MAT,FROCKS,HAT,
+कार सीट,चेंजिंग मॅट,फ्रॉक्स,हॅट,
+
+HIGH CHAIR,KAJAL,NAIL CUTTER,PAJAMA,
+हाइ चेर,काजल,नेल कटर,पायजामा,
+
+PLAY HOUSE,POWDER,SOCKS,UMBRELLA,
+प्ले हाउस,पाउडर,सॉक्स,अंब्रेला,
+
+=====================================================================
+BABY PILLOW,FORMULA MILK,GIFT FOR BABY,HAIR OIL,
+बेबी पिल्लो,फ़ॉर्मूला मिल्क,गिफ्ट फॉर बेबी,हेर ओइल,
+
+HAIR PIN,HAND GLOWS,KAJAL,PLAY HOUSE,
+हेर पिन,हॅंड ग्लोस,काजल,प्ले हाउस,
+
+POWDER,SLEEPERS,SNACK CUP,SOCKS,
+पाउडर,स्लीपर्स,स्नॅक कप,सॉक्स,
+BABY PILLOW,BLANKET,CHANGING MAT,GIFT FOR BABY,
+बेबी पिल्लो,ब्लॅंकेट,चेंजिंग मॅट,गिफ्ट फॉर बेबी,
+
+MESSAGE OIL,NAIL CUTTER,SNACK CUP,STROLLER,
+मसाज ओइल,नेल कटर,स्नॅक कप,स्ट्रोलर,
+
+THERMOMETER,TOOTH BRUSH,WALKER,WIPES,
+थर्मॉमीटर,टूथ ब्रश,वॉकर,वाइप्स,
+
+=====================================================================
+ACTIVITY GYM,BABY PILLOW,BATH TOYS,BLANKET,
+एक्टिविटी जिम,बेबी पिल्लो,बाथ टॉयस,ब्लॅंकेट,
+
+DIAPER,DRY SHEET,GIFT FOR BABY,HAIR OIL,
+डाइपर,ड्राइ शीट,गिफ्ट फॉर बेबी,हेर ओइल,
+
+LOTION,MESSAGE OIL,SLEEPERS,SNACK CUP,
+लोशन,मसाज ओइल,स्लीपर्स,स्नॅक कप,
+
+=====================================================================
+BABY FOOD,BATH TUB,BLANKET,BOTTLE BRUSH,
+बेबी फुड,बाथ टब,ब्लॅंकेट,बॉटल ब्रश,
+
+BUMBO SEAT,CAR SEAT,FORMULA MILK,HAIR OIL,
+बंबो सीट,कार सीट,फ़ॉर्मूला मिल्क,हेर ओइल,
+
+HAT,NAIL CUTTER,TRAVEL BAG,WET TISSUE,
+हॅट,नेल कटर,ट्रॅवेल बाग,वेट टिश्यू,
+
+=====================================================================
+BABY FOOD,BABY PILLOW,BOWL,CHANGING MAT,
+बेबी फुड,बेबी पिल्लो,बाउव्ल,चेंजिंग मॅट,
+
+DRY SHEET,FROCKS,MESSAGE OIL,NIGHT LIGHT,
+ड्राइ शीट,फ्रॉक्स,मसाज ओइल,नाइट लाइट,
+
+SIPPER,SOCKS,UMBRELLA,WALKER,
+सिप्पर,सॉक्स,अंब्रेला,वॉकर,
+
+=====================================================================
+BABY PILLOW,BOOK,GIFT FOR BABY,HAIR OIL,
+बेबी पिल्लो,बुक,गिफ्ट फॉर बेबी,हेर ओइल,
+
+HAND GLOWS,PLAY HOUSE,SLEEPERS,SOCKS,
+हॅंड ग्लोस,प्ले हाउस,स्लीपर्स,सॉक्स,
+
+TOWELS,TRAVEL BAG,WALKER,WET TISSUE,
+टॉवेल्स,ट्रॅवेल बाग,वॉकर,वेट टिश्यू,
+BATH TOYS,BOOK,BOWL,BUMBO SEAT,
+बाथ टॉयस,बुक,बाउव्ल,बंबो सीट,
+
+DIAPER BAG,HAIR PIN,LOTION,MESSAGE OIL,
+डाइपर बॅग,हेर पिन,लोशन,मसाज ओइल,
+
+NIGHT LIGHT,RATTLE,STORY BOOK,TRAVEL BAG,
+नाइट लाइट,रॅटल ,स्टोरी बुक,ट्रॅवेल बाग,
+
+=====================================================================
+ACTIVITY GYM,BABY PILLOW,BOTTLE,DRY SHEET,
+एक्टिविटी जिम,बेबी पिल्लो,बॉटल,ड्राइ शीट,
+
+FACE CREAM,FROCKS,LOTION,NAIL CUTTER,
+फेस क्रीम,फ्रॉक्स,लोशन,नेल कटर,
+
+STORY BOOK,THERMOMETER,TOYS,WIPES,
+स्टोरी बुक,थर्मॉमीटर,टॉयस,वाइप्स,
+
+=====================================================================
+BATH TOYS,BATH TUB,BOTTLE,BOTTLE BRUSH,
+बाथ टॉयस,बाथ टब,बॉटल,बॉटल ब्रश,
+
+DIAPER,SIPPER,SLEEPERS,SNACK CUP,
+डाइपर,सिप्पर,स्लीपर्स,स्नॅक कप,
+
+TOOTH BRUSH,TOWELS,WALKER,WET TISSUE,
+टूथ ब्रश,टॉवेल्स,वॉकर,वेट टिश्यू,
+
+=====================================================================
+BABY PILLOW,DIAPER BAG,GIFT FOR BABY,HAT,
+बेबी पिल्लो,डाइपर बॅग,गिफ्ट फॉर बेबी,हॅट,
+
+KAJAL,MESSAGE OIL,POWDER,RATTLE,
+काजल,मसाज ओइल,पाउडर,रॅटल ,
+
+STORY BOOK,STROLLER,TOWELS,WET TISSUE,
+स्टोरी बुक,स्ट्रोलर,टॉवेल्स,वेट टिश्यू,
+
+=====================================================================
+BABY PILLOW,BATH TOYS,BOWL,BUMBO SEAT,
+बेबी पिल्लो,बाथ टॉयस,बाउव्ल,बंबो सीट,
+
+FORMULA MILK,HAIR PIN,MESSAGE OIL,PAJAMA,
+फ़ॉर्मूला मिल्क,हेर पिन,मसाज ओइल,पायजामा,
+
+POWDER,RATTLE,SNACK CUP,TRAVEL BAG,
+पाउडर,रॅटल ,स्नॅक कप,ट्रॅवेल बाग,
+BABY PILLOW,BIBS,CHANGING MAT,FACE CREAM,
+बेबी पिल्लो,बिब्स,चेंजिंग मॅट,फेस क्रीम,
+
+LOTION,MESSAGE OIL,PLAY HOUSE,POWDER,
+लोशन,मसाज ओइल,प्ले हाउस,पाउडर,
+
+THERMOMETER,TOOTH BRUSH,WALKER,WET TISSUE,
+थर्मॉमीटर,टूथ ब्रश,वॉकर,वेट टिश्यू,
+
+=====================================================================
+ACTIVITY GYM,BOTTLE,BOWL,FORMULA MILK,
+एक्टिविटी जिम,बॉटल,बाउव्ल,फ़ॉर्मूला मिल्क,
+
+HAIR OIL,LOTION,POWDER,SIPPER,
+हेर ओइल,लोशन,पाउडर,सिप्पर,
+
+SLEEPERS,STORY BOOK,STROLLER,TOYS,
+स्लीपर्स,स्टोरी बुक,स्ट्रोलर,टॉयस,
+
+=====================================================================
+ACTIVITY GYM,BATH TOYS,BLANKET,BOTTLE,
+एक्टिविटी जिम,बाथ टॉयस,ब्लॅंकेट,बॉटल,
+
+HAND GLOWS,HIGH CHAIR,PAJAMA,SIPPER,
+हॅंड ग्लोस,हाइ चेर,पायजामा,सिप्पर,
+
+SOCKS,STROLLER,UMBRELLA,WET TISSUE,
+सॉक्स,स्ट्रोलर,अंब्रेला,वेट टिश्यू,
+
+=====================================================================
+ACTIVITY GYM,BOOK,BOTTLE BRUSH,BUMBO SEAT,
+एक्टिविटी जिम,बुक,बॉटल ब्रश,बंबो सीट,
+
+DIAPER,FORMULA MILK,MESSAGE OIL,SIPPER,
+डाइपर,फ़ॉर्मूला मिल्क,मसाज ओइल,सिप्पर,
+
+THERMOMETER,TOOTH BRUSH,TOWELS,TRAVEL BAG,
+थर्मॉमीटर,टूथ ब्रश,टॉवेल्स,ट्रॅवेल बाग,
+
+=====================================================================
+BLANKET,BOTTLE,CAR SEAT,CHANGING MAT,
+ब्लॅंकेट,बॉटल,कार सीट,चेंजिंग मॅट,
+
+DRY SHEET,GIFT FOR BABY,HAIR OIL,HAIR PIN,
+ड्राइ शीट,गिफ्ट फॉर बेबी,हेर ओइल,हेर पिन,
+
+KAJAL,POWDER,TOWELS,WET TISSUE,
+काजल,पाउडर,टॉवेल्स,वेट टिश्यू,
+BABY PILLOW,BOTTLE,BUMBO SEAT,FROCKS,
+बेबी पिल्लो,बॉटल,बंबो सीट,फ्रॉक्स,
+
+HIGH CHAIR,KAJAL,LOTION,NAIL CUTTER,
+हाइ चेर,काजल,लोशन,नेल कटर,
+
+STORY BOOK,STROLLER,TOYS,WET TISSUE,
+स्टोरी बुक,स्ट्रोलर,टॉयस,वेट टिश्यू,
+
+=====================================================================
+ACTIVITY GYM,BATH TOYS,BIBS,BOOK,
+एक्टिविटी जिम,बाथ टॉयस,बिब्स,बुक,
+
+BOTTLE BRUSH,BUMBO SEAT,FROCKS,HAND GLOWS,
+बॉटल ब्रश,बंबो सीट,फ्रॉक्स,हॅंड ग्लोस,
+
+RATTLE,UMBRELLA,WALKER,WIPES,
+रॅटल ,अंब्रेला,वॉकर,वाइप्स,
+
+=====================================================================
+BATH TOYS,BLANKET,CHANGING MAT,DIAPER,
+बाथ टॉयस,ब्लॅंकेट,चेंजिंग मॅट,डाइपर,
+
+DIAPER BAG,FACE CREAM,GIFT FOR BABY,PAJAMA,
+डाइपर बॅग,फेस क्रीम,गिफ्ट फॉर बेबी,पायजामा,
+
+STORY BOOK,THERMOMETER,TOOTH BRUSH,WET TISSUE,
+स्टोरी बुक,थर्मॉमीटर,टूथ ब्रश,वेट टिश्यू,
+
+=====================================================================
+BOTTLE BRUSH,BUMBO SEAT,CHANGING MAT,DIAPER,
+बॉटल ब्रश,बंबो सीट,चेंजिंग मॅट,डाइपर,
+
+FACE CREAM,FORMULA MILK,FROCKS,HAND GLOWS,
+फेस क्रीम,फ़ॉर्मूला मिल्क,फ्रॉक्स,हॅंड ग्लोस,
+
+POWDER,SIPPER,STORY BOOK,TOWELS,
+पाउडर,सिप्पर,स्टोरी बुक,टॉवेल्स,
+
+=====================================================================
+ACTIVITY GYM,DIAPER,DRY SHEET,GIFT FOR BABY,
+एक्टिविटी जिम,डाइपर,ड्राइ शीट,गिफ्ट फॉर बेबी,
+
+HAT,NAIL CUTTER,PAJAMA,SLEEPERS,
+हॅट,नेल कटर,पायजामा,स्लीपर्स,
+
+SNACK CUP,SOCKS,TOOTH BRUSH,WALKER,
+स्नॅक कप,सॉक्स,टूथ ब्रश,वॉकर,
+BLANKET,BOWL,FORMULA MILK,HAIR OIL,
+ब्लॅंकेट,बाउव्ल,फ़ॉर्मूला मिल्क,हेर ओइल,
+
+HAND GLOWS,MESSAGE OIL,PLAY HOUSE,POWDER,
+हॅंड ग्लोस,मसाज ओइल,प्ले हाउस,पाउडर,
+
+SOCKS,TOWELS,UMBRELLA,WIPES,
+सॉक्स,टॉवेल्स,अंब्रेला,वाइप्स,
+
+=====================================================================
+ACTIVITY GYM,BIBS,BOTTLE BRUSH,BOWL,
+एक्टिविटी जिम,बिब्स,बॉटल ब्रश,बाउव्ल,
+
+DIAPER BAG,FACE CREAM,HAIR PIN,HAT,
+डाइपर बॅग,फेस क्रीम,हेर पिन,हॅट,
+
+HIGH CHAIR,PAJAMA,SOCKS,THERMOMETER,
+हाइ चेर,पायजामा,सॉक्स,थर्मॉमीटर,
+
+=====================================================================
+BLANKET,BOTTLE BRUSH,CHANGING MAT,DIAPER BAG,
+ब्लॅंकेट,बॉटल ब्रश,चेंजिंग मॅट,डाइपर बॅग,
+
+GIFT FOR BABY,HAT,LOTION,PAJAMA,
+गिफ्ट फॉर बेबी,हॅट,लोशन,पायजामा,
+
+RATTLE,SLEEPERS,TRAVEL BAG,WET TISSUE,
+रॅटल ,स्लीपर्स,ट्रॅवेल बाग,वेट टिश्यू,
+
+=====================================================================
+ACTIVITY GYM,BOOK,CAR SEAT,DIAPER,
+एक्टिविटी जिम,बुक,कार सीट,डाइपर,
+
+GIFT FOR BABY,HAND GLOWS,HAT,HIGH CHAIR,
+गिफ्ट फॉर बेबी,हॅंड ग्लोस,हॅट,हाइ चेर,
+
+MESSAGE OIL,SNACK CUP,WET TISSUE,WIPES,
+मसाज ओइल,स्नॅक कप,वेट टिश्यू,वाइप्स,
+
+=====================================================================
+BIBS,BLANKET,BOTTLE,BOWL,
+बिब्स,ब्लॅंकेट,बॉटल,बाउव्ल,
+
+CAR SEAT,DIAPER BAG,NAIL CUTTER,PAJAMA,
+कार सीट,डाइपर बॅग,नेल कटर,पायजामा,
+
+POWDER,SOCKS,STROLLER,THERMOMETER,
+पाउडर,सॉक्स,स्ट्रोलर,थर्मॉमीटर,
+BABY FOOD,BATH TOYS,BATH TUB,BLANKET,
+बेबी फुड,बाथ टॉयस,बाथ टब,ब्लॅंकेट,
+
+BOTTLE BRUSH,FORMULA MILK,GIFT FOR BABY,LOTION,
+बॉटल ब्रश,फ़ॉर्मूला मिल्क,गिफ्ट फॉर बेबी,लोशन,
+
+POWDER,SIPPER,SLEEPERS,TRAVEL BAG,
+पाउडर,सिप्पर,स्लीपर्स,ट्रॅवेल बाग,
+
+=====================================================================
+BATH TUB,BIBS,BOWL,DRY SHEET,
+बाथ टब,बिब्स,बाउव्ल,ड्राइ शीट,
+
+FROCKS,HAIR PIN,HIGH CHAIR,KAJAL,
+फ्रॉक्स,हेर पिन,हाइ चेर,काजल,
+
+NIGHT LIGHT,SNACK CUP,TOWELS,TRAVEL BAG,
+नाइट लाइट,स्नॅक कप,टॉवेल्स,ट्रॅवेल बाग,
+
+=====================================================================
+ACTIVITY GYM,BABY PILLOW,BATH TUB,BLANKET,
+एक्टिविटी जिम,बेबी पिल्लो,बाथ टब,ब्लॅंकेट,
+
+BOTTLE,BOTTLE BRUSH,BUMBO SEAT,FORMULA MILK,
+बॉटल,बॉटल ब्रश,बंबो सीट,फ़ॉर्मूला मिल्क,
+
+HAIR OIL,KAJAL,PAJAMA,WALKER,
+हेर ओइल,काजल,पायजामा,वॉकर,
+
+=====================================================================
+BATH TUB,BLANKET,BOOK,CAR SEAT,
+बाथ टब,ब्लॅंकेट,बुक,कार सीट,
+
+CHANGING MAT,FACE CREAM,FORMULA MILK,FROCKS,
+चेंजिंग मॅट,फेस क्रीम,फ़ॉर्मूला मिल्क,फ्रॉक्स,
+
+HIGH CHAIR,STROLLER,TOYS,UMBRELLA,
+हाइ चेर,स्ट्रोलर,टॉयस,अंब्रेला,
+
+=====================================================================
+BOOK,BOTTLE,BOWL,CAR SEAT,
+बुक,बॉटल,बाउव्ल,कार सीट,
+
+DIAPER BAG,FROCKS,KAJAL,PAJAMA,
+डाइपर बॅग,फ्रॉक्स,काजल,पायजामा,
+
+STROLLER,THERMOMETER,TOOTH BRUSH,UMBRELLA,
+स्ट्रोलर,थर्मॉमीटर,टूथ ब्रश,अंब्रेला,

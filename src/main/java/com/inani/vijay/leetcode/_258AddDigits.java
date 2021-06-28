@@ -1,9 +1,9 @@
 package com.inani.vijay.leetcode;
 
-public class AddDigits_258 {
+public class _258AddDigits {
 
     public static void main(String[] args) {
-        System.out.println(new AddDigits_258().addDigits(38));
+        System.out.println(new _258AddDigits().addDigits(38));
     }
 
     /*public int addDigits(int num) {

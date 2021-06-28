@@ -1,9 +1,9 @@
 package com.inani.vijay.leetcode;
 
-public class AddStrings_415 {
+public class _415AddStrings {
 
     public static void main(String[] args) {
-        System.out.println(new AddStrings_415().addStrings("54323455679", "67678678678785465"));
+        System.out.println(new _415AddStrings().addStrings("54323455679", "67678678678785465"));
     }
 
     public String addStrings(String num1, String num2) {

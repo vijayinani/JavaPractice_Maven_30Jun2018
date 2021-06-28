@@ -1,9 +1,9 @@
 package com.inani.vijay.leetcode;
 
-public class BinaryGap_868 {
+public class _868BinaryGap {
 
     public static void main(String[] args) {
-        System.out.println(new BinaryGap_868().binaryGap(12));
+        System.out.println(new _868BinaryGap().binaryGap(12));
     }
 
     public int binaryGap(int N) {

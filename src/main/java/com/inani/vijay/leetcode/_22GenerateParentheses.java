@@ -28,5 +28,4 @@ public class _22GenerateParentheses {
             backtrack(n, start, end + 1, str + ")", result);
         }
     }
-
 }
